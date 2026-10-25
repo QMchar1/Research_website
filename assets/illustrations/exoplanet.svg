@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="600" viewBox="0 0 920 600" role="img" aria-label="Research concept illustration"><rect width="920" height="600" fill="#f5f8f7"/><defs><radialGradient id="sun"><stop offset="0" stop-color="#f1dbaf"/><stop offset="1" stop-color="#cb985f"/></radialGradient></defs>
+<g opacity=".35" stroke="#c5d5d5"><line x1="145" y1="60" x2="145" y2="530"/><line x1="300" y1="60" x2="300" y2="530"/><line x1="455" y1="60" x2="455" y2="530"/><line x1="610" y1="60" x2="610" y2="530"/><line x1="765" y1="60" x2="765" y2="530"/></g>
+<ellipse cx="455" cy="285" rx="130.6" ry="66.2" fill="none" stroke="#a4bdc0" stroke-width="2" stroke-dasharray="7 9"/><ellipse cx="455" cy="285" rx="222.9" ry="113.0" fill="none" stroke="#a4bdc0" stroke-width="2" stroke-dasharray="7 9"/><ellipse cx="455" cy="285" rx="326.6" ry="165.6" fill="none" stroke="#a4bdc0" stroke-width="2" stroke-dasharray="7 9"/><circle cx="453.4" cy="218.8" r="10" fill="#315c70"/><circle cx="525.3" cy="392.3" r="13" fill="#7c9fa9"/><circle cx="178.0" cy="197.3" r="12" fill="#a7775b"/><circle cx="455" cy="285" r="23" fill="url(#sun)"/>
+<path d="M735 175 Q690 130 637 145" fill="none" stroke="#315c70" stroke-width="3"/>
+<path d="M645 132 L635 145 L649 151" fill="none" stroke="#315c70" stroke-width="3"/>
+<text x="45" y="56" fill="#315c70" font-family="Arial" font-size="15" letter-spacing="2">SCHEMATIC / ORBITAL MIGRATION</text>
+<text x="662" y="173" fill="#315c70" font-family="Arial" font-size="16">Inward drift</text>
+<text x="45" y="555" fill="#65747c" font-family="Arial" font-size="16">Resonance capture · interactions · collisions</text></svg>
