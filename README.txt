@@ -67,3 +67,12 @@ EDITING
 Change colors and layout centrally in assets/css/style.css.
 The standalone homepage is a frozen CSS snapshot; if styles change,
 regenerate the standalone HTML by embedding updated CSS.
+
+EXOPLANET PAGE UPDATE — REFERENCES
+----------------------------------
+- Updated the hot-Jupiter formation background and observed-systems section.
+- Citation hyperlinks directly open verified DOI/journal pages or the TOI-3686 preprint.
+- Added a linked bibliography at the bottom of research/exoplanet-dynamics.html.
+- Kepler-30 is described as a longer-period comparison, not a hot Jupiter.
+- The hero diagram remains an offline conceptual illustration; a NASA hot-Jupiter
+  artwork source is linked in the caption.
